@@ -28,7 +28,7 @@ e `01_theory/` folder contains detailed explanations of essential Ruby programmi
 - ✅ Common built-in Ruby methods  
 
 Each topic includes examples, syntax, and use-cases to improve understanding.
-
+Hello my namer is prashant awsare
 ---
 
 ### 💻 Practical Ruby Programs
