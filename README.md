@@ -1,15 +1,15 @@
 # 📘 Ruby Programming Repository
 
 Welcome to the **Ruby Programming** repository!  
-This repository is created to help beginners and intermediate learners understand the **core theoretical concepts** of Ruby programming and **practice Ruby programs** through examples.
-
+This repository is created to help beginners and intermediate learners understand the **core theoretical concepts** of Ruby programming and **practice Ruby programs** through examples
 ---
 
 ## 🔍 What’s Inside?
 
-### 🧠 Theoretical Concepts
+### 🧠 Theoretical Coconcet 
 
-The `01_theory/` folder contains detailed explanations of essential Ruby programming topics:
+this is my changes 
+e `01_theory/` folder contains detailed explanations of essential Ruby programming topics:
 
 - ✅ Introduction to Ruby and its features  
 - ✅ Ruby syntax and code structure  
